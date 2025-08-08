@@ -17,4 +17,6 @@
   <a href="https://www.w3schools.com/xml/"><img src="https://store-images.s-microsoft.com/image/apps.48440.13577598322234508.1d235eb2-911b-4c78-8afc-12b9846b8b7d.06263e25-c9c6-471b-818a-a043a4f2e076" height="40" weight="40" /> </a> 
 </p>
 
-<p>machines solved on HackTheBox</p>
+<br><hr>
+
+<h4>Machines solved on HackTheBox</h4>
