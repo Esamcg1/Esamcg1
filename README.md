@@ -6,5 +6,7 @@
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
 
 <p align="certer"> 
-  <a href="https://www.python.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" weight="30" /> </a> 
+  <a href="https://www.python.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" weight="40" /> </a> 
+  <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" weight="40" /></a> 
+  <a href="https://www.w3schools.com/xml/"><img src="https://store-images.s-microsoft.com/image/apps.48440.13577598322234508.1d235eb2-911b-4c78-8afc-12b9846b8b7d.06263e25-c9c6-471b-818a-a043a4f2e076" height="40" weight="40" /> </a> 
 </p>
