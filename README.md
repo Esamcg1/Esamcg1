@@ -1,6 +1,6 @@
 <h2><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="20"> Hi!, I'm Esamcg1 :) 👋</h2>
 
-<h4>I am a software engineering student. I develop software in Python, SQL, XML, and Bash. I am passionate about learning new things about technology. Due to my background in IT and customer support for Odoo, I am looking to specialize in the areas of cybersecurity, pentesting, computer forensics, and Blue Team...</h4>
+<h4>I am a software engineering student. I develop software in Python, SQL, XML, and Bash. I am passionate about learning new things about technology. Due to my background in IT and customer support for Odoo, I am looking to specialize in the areas of cybersecurity, pentesting, computer forensics or Blue Team...</h4>
 
 <h4>Odoo developer and Odoo support (users and technical)</h4>
 
