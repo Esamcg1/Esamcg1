@@ -1,1 +1,1 @@
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Hi!, I'm Esamcg1 :)</h2>
+<h2><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="20"> Hi!, I'm Esamcg1 :) 👋</h2>
