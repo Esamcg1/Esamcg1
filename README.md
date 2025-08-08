@@ -9,9 +9,6 @@
   <a href="https://dev.to/pratik_kale" target="_blank"><img height="30" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
   <a href="https://instagram.com/prato.grapher" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
-
-<img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
-
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Firebase
 - 😄 Pronouns: He/His
