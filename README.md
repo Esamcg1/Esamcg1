@@ -15,7 +15,7 @@
 - 📫 How to reach me: ppkale@mitaoe.ac.in
 <br></br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Tecnologías </h2>                                                                                                                       
+<h2><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="20"> Tecnologías </h2>                                                                                                                       
 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
