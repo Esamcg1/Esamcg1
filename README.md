@@ -1,6 +1,6 @@
 <h2><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="20"> Hi!, I'm Esamcg1 :) 👋</h2>
 
-<h4>I am a software engineering student. I develop software in Python, SQL, XML, and Bash. I am passionate about learning new things about technology.</h4>h4>
+<h4>I am a software engineering student. I develop software in Python, SQL, XML, and Bash. I am passionate about learning new things about technology.</h4>
 <h4>I have experience in IT, customer service and support, and Odoo modules.</h4>
 <h4>I am looking to specialize in the areas of cybersecurity, penetration testing, computer forensics, or Blue Team..</h4>
 
