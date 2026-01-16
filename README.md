@@ -10,7 +10,6 @@
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
 
-<div style="display: flex; justify-content: space-between;"> 
 <h3>Backend Tools
   <a href="https://www.python.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" weight="40" /> </a> 
   <a href="https://www.w3schools.com/bash/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" height="40" weight="40" /> </a> 
@@ -20,7 +19,7 @@
 BD Tools:
   <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" weight="40" /></a>
   <a href=""><img src="https://www.mytecbits.com/wp-content/uploads/SQL.png" height="40" weight="40" /></a>
-<h3>OS:</h3>
+OS:
   <a href="https://ubuntu.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="40" weight="40" /> </a> 
 ERP's
  <a href="https://www.odoo.com/es"><img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_inverted.png" height="40" weight="40" /></a>
@@ -30,6 +29,5 @@ Web Tools:
   <a href="https://lenguajehtml.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" weight="40" /> </a>
   <a href="https://lenguajehtml.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="40" weight="40" /> </a>
 </h3>
-</div>
 <br><hr>
 <h4>Machines solved on HackTheBox</h4>
