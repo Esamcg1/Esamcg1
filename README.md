@@ -19,8 +19,6 @@
 BD Tools:
   <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" weight="40" /></a>
   <a href=""><img src="https://www.mytecbits.com/wp-content/uploads/SQL.png" height="40" weight="40" /></a></br>
-OS:
-  <a href="https://ubuntu.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="40" weight="40" /> </a> </br>
 ERP's
  <a href="https://www.odoo.com/es"><img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_inverted.png" height="40" weight="40" /></a></br>
 Web Tools:
@@ -30,4 +28,9 @@ Web Tools:
   <a href="https://lenguajehtml.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="40" weight="40" /> </a>
 </h3>
 <br><hr>
+<h3>Interesting Projects</h3>
+<ol>
+  <li><h3>Payment Plan: A payment plan module for Odoo that allows you to manage real estate acquisitions through this module. Integration with accounting, payments, customers, products, etc. modules.</h3> <img href="https://www.python.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="20" weight="20"/></li>
+  <li>P: A payment plan module for Odoo that allows you to manage real estate acquisitions through this module.</li>
+</ol>
 <h4>Machines solved on HackTheBox</h4>
