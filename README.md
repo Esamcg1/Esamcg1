@@ -36,7 +36,7 @@ Web Tools:
   <li>
     <h4>Payment Plan: A payment plan module for Odoo that allows you to manage real estate acquisitions through this module. Integration with accounting, payments, customers, products, etc. modules.</h4> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="20" weight="20"/> 
-    <img href="https://store-images.s-microsoft.com/image/apps.48440.13577598322234508.1d235eb2-911b-4c78-8afc-12b9846b8b7d.06263e25-c9c6-471b-818a-a043a4f2e076" height="20" weight="20"/>
+    <img src="https://store-images.s-microsoft.com/image/apps.48440.13577598322234508.1d235eb2-911b-4c78-8afc-12b9846b8b7d.06263e25-c9c6-471b-818a-a043a4f2e076" height="20" weight="20"/>
   </li>
   <li>
     <h4>Python CLI: A CLI made with Python that allows interaction with the Linux operating system via command line. Not finished yet :( (you'll see it soon on my profile).</h4>
