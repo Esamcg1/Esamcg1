@@ -15,7 +15,7 @@
   <a href="https://www.w3schools.com/bash/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" height="40" weight="40" /> </a> 
   <a href="https://git-scm.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" weight="40" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="40" weight="40" /></a>
-  <a href="https://www.docker.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" weight="40" /></a>
+  <a href="https://www.docker.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" weight="40" /></a></br>
 BD Tools:
   <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" weight="40" /></a>
   <a href=""><img src="https://www.mytecbits.com/wp-content/uploads/SQL.png" height="40" weight="40" /></a>
