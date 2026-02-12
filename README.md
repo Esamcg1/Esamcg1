@@ -1,4 +1,4 @@
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNvdnJxemxwY2RjbDJ3NmQ2Y2tpMDVreWszcXhxZWl0bHp3d3ZrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIIhZliB2McAo/giphy.gif" height="20"> Hi!, I'm Esamcg1 👋</h2>
+<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBpaG0wOWhlZWtrZTM5N3ZvcGwwMWM5cnZwOHIyYXBqZjNid2VsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoBwYBdIztLgIYujMC/giphy.gif" height="20"> Hi!, I'm Esamcg1 👋</h2>
 
 <h4>I am a software engineering student. I develop software in Python, SQL, XML, and Bash. I am passionate about learning new things about technology.</h4>
 <h4>I have experience in IT, customer service and support, Odoo modules and junior cybersecurity analyst</h4>
