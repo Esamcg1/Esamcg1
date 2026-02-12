@@ -2,6 +2,7 @@
 
 <h4>I am a software engineering student. I develop software in Python, SQL, XML, and Bash. I am passionate about learning new things about technology.</h4>
 <h4>I have experience in IT, customer service and support, Odoo modules and junior cybersecurity analyst</h4>
+<h4>Experience in support, migration, and maintenance of third-party modules in Odoo.</h4>
 <h4>I am looking to specialize in the areas of cybersecurity, penetration testing, computer forensics, or Blue Team..</h4>
 
 <h4>Odoo developer and Odoo support (users and technical)</h4>
@@ -28,9 +29,22 @@ Web Tools:
   <a href="https://lenguajehtml.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="40" weight="40" /> </a>
 </h3>
 <br><hr>
+
+
 <h3>Interesting Projects</h3>
 <ol>
-  <li><h3>Payment Plan: A payment plan module for Odoo that allows you to manage real estate acquisitions through this module. Integration with accounting, payments, customers, products, etc. modules.</h3> <img href="https://www.python.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="20" weight="20"/></li>
-  <li>P: A payment plan module for Odoo that allows you to manage real estate acquisitions through this module.</li>
+  <li>
+    <h4>Payment Plan: A payment plan module for Odoo that allows you to manage real estate acquisitions through this module. Integration with accounting, payments, customers, products, etc. modules.</h4> 
+    <img href="https://www.python.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="20" weight="20"/> 
+    <img href="https://store-images.s-microsoft.com/image/apps.48440.13577598322234508.1d235eb2-911b-4c78-8afc-12b9846b8b7d.06263e25-c9c6-471b-818a-a043a4f2e076" height="20" weight="20"/>
+  </li>
+  <li>Python CLI: A CLI made with Python that allows interaction with the Linux operating system via command line. Not finished yet :( (you'll see it soon on my profile).
+    <img href="https://www.python.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="20" weight="20"/>
+  </li>
+  <li>DNS Server: You'll see it on my profile soon :)
+
+  </li>
 </ol>
+
+
 <h4>Machines solved on HackTheBox</h4>
